@@ -1,0 +1,1 @@
+alter table post add column createdOn TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP;
